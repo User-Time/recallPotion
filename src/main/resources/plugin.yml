@@ -1,0 +1,6 @@
+name: recallPotion
+version: '1.0.0'
+main: top.timeblog.recallpotion.recallPotion
+api-version: '1.21'
+authors: [ Time ]
+website: https://www.time-blog.top
